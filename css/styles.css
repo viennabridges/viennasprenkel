@@ -25,9 +25,10 @@ h3{font-family:'Playfair Display', Cursive;
 }
 
 #wrapper{
-  background: url("http://cutsncurls.net/wp-content/uploads/2014/05/Colorful-Background1.jpg");
-  background-repeat: repeat-y; 
-  background-repeat: repeat-x;
+  background: url("../img/logo.png");
+  background-repeat: repeat;
+  background-size: 75px 75px;
+  background-position: center center; 
   z-index: -1;
 }
 
