@@ -1,0 +1,102 @@
+@import "compass/css3";
+
+
+html{background-image: url(http://www.graphicartsunit.com/images/noise.png)}
+
+h1 {font-family: 'Playfair Display', Cursive;
+  font-size: 5em;
+  color: #878787;}
+h2{ font-family: 'Playfair Display', Cursive;
+    font-size: 3em;}
+h3{font-family:'Playfair Display', Cursive;
+    font-size:2em;}
+.nav {
+  font-family: 'Playfair Display', Cursive;
+  font-size: .75em;
+/*  background-image: url(http://www.graphicartsunit.com/images/noise.png);
+  background-color: #878787;*/
+  list-style: none;
+  text-align: center; 
+      }
+
+#wrapper {
+  width: 35%;
+  margin: 0 auto;
+}
+
+#wrapper{
+  background: url("http://cutsncurls.net/wp-content/uploads/2014/05/Colorful-Background1.jpg");
+  background-repeat: repeat-y; 
+  background-repeat: repeat-x;
+  z-index: -1;
+}
+
+div {
+  text-align: center;
+      }
+
+.nav li {
+  display: inline;  
+      }
+
+.nav a {
+  display: inline-block;
+  padding: 1em;
+      }
+
+  p {text-align: left;}
+
+.education,.home, .work, .design, .writing, .editing, .publicrelations, .pr, .contact {
+  border: .25em solid #878787;
+  width: auto;
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  border-radius: 40px;
+  padding: .25em;
+  background-color:#f0648e;
+  font-color: #ffffff;}
+
+/* Each state */
+
+*a:visited { text-decoration: none; color:#fff; }
+a:hover { text-decoration: none; color:#fff; }
+a:focus { text-decoration: none; color:#fff; }
+a:hover, a:active { text-decoration: none; color:#fff }
+
+
+a {
+  text-decoration:none;
+  border-radius:30px;
+  padding:12px 53px 12px 23px;
+  color:#fff;
+  font-weight:bold;
+  position:relative;
+  transition:all .3s;
+  display:inline-block;}
+
+.round {-webkit-transition-property:background 0.3s ease-out;} 
+span {
+    position:relative;
+     z-index:3;
+
+  .round {
+    border-radius:50%;
+    width:38px;
+    height:38px;
+    position:absolute;
+    right:3px;
+    top:3px;
+    z-index:2;
+    @include:transition(all .3s ease-out);
+
+  i {
+      position: absolute;
+      top: 50%;
+      margin-top: -6px;
+      left: 50%;
+      margin-left: -4px;
+      @include transition(all .3s);
+    }
+      }
+        }
