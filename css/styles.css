@@ -20,17 +20,20 @@ h3{font-family:'Playfair Display', Cursive;
       }
 
 #wrapper {
-  width: 35%;
+  width: 30%;
   margin: 0 auto;
 }
-
+.center {padding-top: 10%;}
 #wrapper{
-  background: url("../img/logo.png");
+  background: url("../img/logo1.png");
   background-repeat: repeat;
   background-size: 75px 75px;
   background-position: center center; 
   z-index: -1;
 }
+.overlay{background-color:#FF;
+  padding-left:10%;
+border-radius: 10px;}
 
 div {
   text-align: center;
@@ -45,7 +48,8 @@ div {
   padding: 1em;
       }
 
-  p {text-align: left;}
+  p {text-align: left;
+    font-weight: bold;}
 
 .education,.home, .work, .design, .writing, .editing, .publicrelations, .pr, .contact {
   border: .25em solid #878787;
