@@ -37,9 +37,11 @@ h3{font-family:'Playfair Display', Cursive;
   padding-left:10%;
   border-radius: 10px;}
 
-.gray {background: #878787;
+.gray { background: #878787;
         font-color: #fff;
-        border-radius: 30px;}
+        border-radius: 30px;
+        width: 40%;
+        margin: 0 auto;}
 
 .leftalign {text-align: left;
   padding-left: 20%;}
