@@ -22,6 +22,7 @@ h3{font-family:'Playfair Display', Cursive;
 #wrapper {
   width: 40%;
   margin: 0 auto;
+  border-radius: 30px;
 }
 
 .center {padding-top: 10%;}
@@ -32,10 +33,11 @@ h3{font-family:'Playfair Display', Cursive;
   background-size: 75px 75px;
   background-position: center center; 
   z-index: -1;
-}
-/*.overlay{ background-color: #FFf;
-          padding-left:10%;
-          border-radius: 10px;}*/
+  border-radius: 30px;}
+
+.overlay{ font-weight: bold;
+          font-size: 1.5em;
+          padding-left:10%;}
 
 .gray { background: #878787;
         color: #fff;
@@ -43,7 +45,8 @@ h3{font-family:'Playfair Display', Cursive;
         width: 40%;
         margin: 0 auto;}
 
-.leftalign {  text-align: left;
+.leftalign {  color: #f0648e;
+              text-align: left;
               padding-left: 20%;}
 
 div { text-align: center;}
