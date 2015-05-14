@@ -9,7 +9,7 @@ h1 {font-family: 'Playfair Display', Cursive;
 h2{ font-family: 'Playfair Display', Cursive;
     font-size: 3em;}
 h3{font-family:'Playfair Display', Cursive;
-    font-size:2.75em;}
+    font-size:2em;}
 .nav {
   font-family: 'Playfair Display', Cursive;
   font-size: .9em;
@@ -33,9 +33,9 @@ h3{font-family:'Playfair Display', Cursive;
   background-position: center center; 
   z-index: -1;
 }
-.overlay{background-color: #FFf;
-  padding-left:10%;
-  border-radius: 10px;}
+.overlay{ background-color: #FFf;
+          padding-left:10%;
+          border-radius: 10px;}
 
 .gray { background: #878787;
         color: #fff;
@@ -43,24 +43,18 @@ h3{font-family:'Playfair Display', Cursive;
         width: 40%;
         margin: 0 auto;}
 
-.leftalign {text-align: left;
-  padding-left: 20%;}
+.leftalign {  text-align: left;
+              padding-left: 20%;}
 
-div {
-  text-align: center;
-      }
+div { text-align: center;}
 
-.nav li {
-  display: inline;  
-      }
+.nav li { display: inline;}
 
-.nav a {
-  display: inline-block;
-  padding: .9em;
-      }
+.nav a {  display: inline-block;
+          padding: .9em;}
 
-  p {text-align: left;
-    font-weight: bold;}
+  p { text-align: left;
+      font-weight: bold;}
 
 .education,.home, .work, .design, .writing, .editing, .publicrelations, .pr, .contact {
   border: .25em solid #878787;
