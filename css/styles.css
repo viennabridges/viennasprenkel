@@ -6,10 +6,18 @@ html{background-image: url(http://www.graphicartsunit.com/images/noise.png)}
 h1 {font-family: 'Playfair Display', Cursive;
   font-size: 5em;
   color: #878787;}
+
 h2{ font-family: 'Playfair Display', Cursive;
     font-size: 3em;}
-h3{font-family:'Playfair Display', Cursive;
+
+h3{ font-family:'Playfair Display', Cursive;
     font-size:2em;}
+
+h4{ font-family:'Playfair Display', Cursive;
+    font-size:1.5em;
+    color: #f0648e;}
+
+
 .nav {
   font-family: 'Playfair Display', Cursive;
   font-size: .9em;
@@ -39,7 +47,7 @@ h3{font-family:'Playfair Display', Cursive;
           font-size: 1.5em;
           padding-left:10%;}
 
-.gray { background: #878787;
+div .gray { background: #878787;
         color: #fff;
         border-radius: 30px;
         width: 40%;
@@ -47,7 +55,7 @@ h3{font-family:'Playfair Display', Cursive;
 
 .leftalign {  color: #f0648e;
               text-align: left;
-              padding-left: 20%;}
+              padding-left: 5%;}
 
 div { text-align: center;}
 
