@@ -94,6 +94,21 @@ div { text-align: center;}
   background-color:#f0648e;
   font-color: #ffffff;}
 
+.context1 { background: url("img/c1.png");} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Each state */
 
 *a:visited { text-decoration: none; color:#fff; }
@@ -115,7 +130,7 @@ a {
 .round {-webkit-transition-property:background 0.3s ease-out;} 
 span {
     position:relative;
-     z-index:3;
+    z-index:3;
 
   .round {
     border-radius:50%;
