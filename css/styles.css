@@ -28,6 +28,12 @@ h4{ font-family:'Playfair Display', Cursive;
   list-style: none;
   text-align: center; 
       }
+.header1 {  background: #878787;
+            color: #fff;
+            width: 70%;
+            margin: 0 auto;
+            border-radius: 30px;}
+.header2
 
 #wrapper {
   width: 40%;
