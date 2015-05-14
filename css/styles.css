@@ -46,7 +46,12 @@ h4{ font-family:'Playfair Display', Cursive;
           font-size: 1.5em;
           padding-left:10%;}
 
-.gray { background: #878787;
+.gray { background: url("../img/logo1.png");
+        background-repeat: repeat;
+        background-size: 75px 75px;
+        background-position: center center; 
+        z-index: -1;
+        background: #878787;
         color: #fff;
         border-radius: 30px;
         width: 40%;
