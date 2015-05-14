@@ -57,8 +57,7 @@ h4{ font-family:'Playfair Display', Cursive;
         width: 40%;
         margin: 0 auto;}
 
-.leftalign {  color: #f0648e;
-              text-align: left;
+.leftalign {  text-align: left;
               padding-left: 5%;}
 
 div { text-align: center;}
