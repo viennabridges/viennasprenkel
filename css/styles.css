@@ -33,9 +33,9 @@ h3{font-family:'Playfair Display', Cursive;
   background-position: center center; 
   z-index: -1;
 }
-.overlay{ background-color: #FFf;
+/*.overlay{ background-color: #FFf;
           padding-left:10%;
-          border-radius: 10px;}
+          border-radius: 10px;}*/
 
 .gray { background: #878787;
         color: #fff;
