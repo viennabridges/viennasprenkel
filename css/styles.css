@@ -37,6 +37,9 @@ h3{font-family:'Playfair Display', Cursive;
   padding-left:10%;
   border-radius: 10px;}
 
+.gray {background: #878787;
+        font-color: #fff;}
+
 .leftalign {text-align: left;
   padding-left: 20%;}
 
