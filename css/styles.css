@@ -8,13 +8,16 @@ h1 {font-family: 'Playfair Display', Cursive;
   color: #878787;}
 
 h2{ font-family: 'Playfair Display', Cursive;
-    font-size: 3em;}
+    font-size: 3em;
+    color: #878787;}
 
 h3{ font-family:'Playfair Display', Cursive;
-    font-size:2em;}
+    font-size:2em;
+    color: #878787;}
 
 h4{ font-family:'Playfair Display', Cursive;
-    font-size:1.5em;}
+    font-size:1.5em;
+    color: #878787;}
 
 
 .nav {
@@ -67,7 +70,8 @@ div { text-align: center;}
 .nav a {  display: inline-block;
           padding: .9em;}
 
-  p { text-align: left;
+  p { color: #878787;
+      text-align: left;
       font-weight: bold;}
 
 .education,.home, .work, .design, .writing, .editing, .publicrelations, .pr, .contact {
