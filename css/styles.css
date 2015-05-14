@@ -35,7 +35,10 @@ h3{font-family:'Playfair Display', Cursive;
 }
 .overlay{background-color:#FF;
   padding-left:10%;
-border-radius: 10px;}
+  border-radius: 10px;}
+
+.leftalign {text-align: left;
+  padding-left: 20%;}
 
 div {
   text-align: center;
