@@ -95,8 +95,9 @@ div { text-align: center;}
   font-color: #ffffff;}
 
 
-.images { height: 2000px;
-          width: 650px;}
+.images {   width: 40%;
+            margin: 0 auto;
+            border-radius: 30px; }
 
 
 .left {}
