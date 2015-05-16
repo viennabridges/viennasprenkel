@@ -45,7 +45,7 @@ h4{ font-family:'Playfair Display', Cursive;
 
 .center {padding-top: 10%;}
 
-.grey {color: #878787;}
+.grey {background: #878787 url(http://www.graphicartsunit.com/images/noise.png);}
 
 #wrapper, #wrapper1{
   background: url("../img/logo1.png");
