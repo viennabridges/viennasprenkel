@@ -116,7 +116,8 @@ a:hover { text-decoration: none; color:#fff; }
 a:focus { text-decoration: none; color:#fff; }
 a:hover, a:active { text-decoration: none; color:#fff }
 
-.downloads {color: #878787;}
+.downloads, #downloads {color: #878787;}
+
 a {
   text-decoration:none;
   border-radius:30px;
