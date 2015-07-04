@@ -1,8 +1,9 @@
 html{background-image: url(http://www.graphicartsunit.com/images/noise.png)}
 
 h1 {font-family: 'Fredericka the Great' cursive;
-  font-size: 5em;
-  color: #f0648e;
+  font-size: 6.5em;
+  color: #878787;
+  display: inline;
  }
 
 #greyheader {font-family: 'Fredericka the Great' cursive;
@@ -34,8 +35,7 @@ p{  font-family: 'Fredericka the Great' cursive;
   list-style: none;
   text-align: center; 
       }
-.header1 {  background: #878787;
-            width: 70%;
+.header1 {  width: 70%;
             margin: 0 auto;
             border-radius: 30px;}
 
