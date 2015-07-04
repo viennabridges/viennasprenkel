@@ -1,26 +1,27 @@
 html{background-image: url(http://www.graphicartsunit.com/images/noise.png)}
 
-h1 {font-family: 'Playfair Display', Cursive;
+h1 {font-family: 'Fredericka the Great' cursive;
   font-size: 5em;
   color: #FFF;}
 
-#greyheader {font-family: 'Playfair Display', Cursive;
+#greyheader {font-family: 'Fredericka the Great' cursive;
   font-size: 5em;
   color: #878787;}
 
-h2{ font-family: 'Playfair Display', Cursivqe;
+h2{ font-family: 'Fredericka the Great' cursive;
     font-size: 3em;
     }
 
-h3{ font-family:'Playfair Display', Cursive;
+h3{ font-family: 'Fredericka the Great' cursive;
     font-size:2em;
     }
 
-h4{ font-family:'Playfair Display', Cursive;
+h4{ font-family: 'Fredericka the Great' cursive;
     font-size:1.5em;
     color: white;
     }
 p{  font-family: 'Fredericka the Great' cursive;
+    font-size:2em;
 
 }
 
