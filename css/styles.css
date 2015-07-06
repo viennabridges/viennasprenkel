@@ -61,7 +61,7 @@ p{  font-family: 'Fredericka the Great' cursive;
           font-size: 1.5em;
           padding-left:10%;}
 
-.gray { background: #878787 url(http://www.graphicartsunit.com/images/noise.png);
+.gray { background-image: url("img/banner.png");
         background-repeat: repeat;
         background-size: 75px 75px;
         background-position: center center; 
